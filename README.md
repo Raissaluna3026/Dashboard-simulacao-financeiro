@@ -23,6 +23,20 @@ O dashboard contempla:
 - Comparativo de receita x margem
 - Análise de rentabilidade por fornecedor
 
+- ## 📊 Dashboard
+
+### Visão Geral
+![Visão Geral](prints/pbb00.png)
+
+### Vendas
+![Receita por Mês](prints/pbb0.png)
+
+### Fluxo de caixa
+![Pagamentos por Tipo](prints/pbb1.png)
+
+### Simulador
+![Receita por Cliente](prints/pbb2.png)
+
 Os prints do dashboard estão disponíveis na pasta `/prints`.
 
 ## 🎯 Insights
